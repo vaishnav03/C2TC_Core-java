@@ -12,7 +12,7 @@ public class Mclass2 {
 		{
 		System.out.println("exception");
 		}
-catch(NullPointerException nex)
+	catch(NullPointerException nex)
 		{
 		System.out.println("null pointer exception");
 		
